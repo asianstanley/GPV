@@ -4,3 +4,4 @@ numpy
 plotly
 reportlab
 matplotlib
+gunicorn
